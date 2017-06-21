@@ -28,7 +28,7 @@
     "test": "./node_modules/grunt-cli/bin/grunt  test"
   },
   "dependencies": {
-    "jison": ">=0.4.13",
+    "jison": "git+https://github.com/codegraft/jison.git",
     "ebnf-parser": ">=0.1.9",
     "lex-parser": ">=0.1.3"
   },
